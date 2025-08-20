@@ -1,0 +1,12 @@
+D:\demo\Pioneers.Domain\bin\Debug\net8.0\Pioneers.Domain.deps.json
+D:\demo\Pioneers.Domain\bin\Debug\net8.0\Pioneers.Domain.dll
+D:\demo\Pioneers.Domain\bin\Debug\net8.0\Pioneers.Domain.pdb
+D:\demo\Pioneers.Domain\obj\Debug\net8.0\Pioneers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo\Pioneers.Domain\obj\Debug\net8.0\Pioneers.Domain.AssemblyInfoInputs.cache
+D:\demo\Pioneers.Domain\obj\Debug\net8.0\Pioneers.Domain.AssemblyInfo.cs
+D:\demo\Pioneers.Domain\obj\Debug\net8.0\Pioneers.Domain.csproj.CoreCompileInputs.cache
+D:\demo\Pioneers.Domain\obj\Debug\net8.0\Pioneers.Domain.dll
+D:\demo\Pioneers.Domain\obj\Debug\net8.0\refint\Pioneers.Domain.dll
+D:\demo\Pioneers.Domain\obj\Debug\net8.0\Pioneers.Domain.pdb
+D:\demo\Pioneers.Domain\obj\Debug\net8.0\ref\Pioneers.Domain.dll
+D:\demo\Pioneers.Domain\obj\Debug\net8.0\Pioneers.Domain.csproj.AssemblyReference.cache
