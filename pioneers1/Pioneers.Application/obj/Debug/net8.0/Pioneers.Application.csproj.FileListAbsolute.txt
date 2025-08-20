@@ -1,0 +1,15 @@
+D:\demo\Pioneers.Application\obj\Debug\net8.0\Pioneers.Application.csproj.AssemblyReference.cache
+D:\demo\Pioneers.Application\obj\Debug\net8.0\Pioneers.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo\Pioneers.Application\obj\Debug\net8.0\Pioneers.Application.AssemblyInfoInputs.cache
+D:\demo\Pioneers.Application\obj\Debug\net8.0\Pioneers.Application.AssemblyInfo.cs
+D:\demo\Pioneers.Application\obj\Debug\net8.0\Pioneers.Application.csproj.CoreCompileInputs.cache
+D:\demo\Pioneers.Application\bin\Debug\net8.0\Pioneers.Application.deps.json
+D:\demo\Pioneers.Application\bin\Debug\net8.0\Pioneers.Application.dll
+D:\demo\Pioneers.Application\bin\Debug\net8.0\Pioneers.Application.pdb
+D:\demo\Pioneers.Application\bin\Debug\net8.0\Pioneers.Domain.dll
+D:\demo\Pioneers.Application\bin\Debug\net8.0\Pioneers.Domain.pdb
+D:\demo\Pioneers.Application\obj\Debug\net8.0\Pioneers.F292F395.Up2Date
+D:\demo\Pioneers.Application\obj\Debug\net8.0\Pioneers.Application.dll
+D:\demo\Pioneers.Application\obj\Debug\net8.0\refint\Pioneers.Application.dll
+D:\demo\Pioneers.Application\obj\Debug\net8.0\Pioneers.Application.pdb
+D:\demo\Pioneers.Application\obj\Debug\net8.0\ref\Pioneers.Application.dll
