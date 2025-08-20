@@ -1,0 +1,6 @@
+@pioneers1_APII_HostAddress = http://localhost:5130
+
+GET {{pioneers1_APII_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
